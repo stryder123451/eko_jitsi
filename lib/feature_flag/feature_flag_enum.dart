@@ -172,4 +172,8 @@ enum FeatureFlagEnum {
   /// Flag indicating if the welcome page should be enabled.
   /// Default: disabled (false).
   WELCOME_PAGE_ENABLED,
+
+  /// Flag indicating if the prejoin page should be enabled.
+  /// Default: enabled (true).
+  PREJOIN_PAGE_ENABLED,
 }

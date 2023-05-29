@@ -190,6 +190,7 @@ class _MyAppState extends State<MyApp> {
       // Full list of feature flags (and defaults) available in the README
       Map<FeatureFlagEnum, bool> featureFlags = {
         FeatureFlagEnum.WELCOME_PAGE_ENABLED: false,
+        FeatureFlagEnum.PREJOIN_PAGE_ENABLED: false
       };
 
       // Here is an example, disabling features for each platform

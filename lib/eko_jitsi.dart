@@ -280,5 +280,4 @@ class JitsiMeetingOptions {
   Bundle colorScheme;
   String userAvatarURL;
 */
-
 }
